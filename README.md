@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this lab, you'll work with event data and persisting events. 
+In this lab, you'll work with event data and persisting events.
 
 ## Two Buttons To Rule Them All
 ![Using buttons](https://media.giphy.com/media/HraQGUYyPxDz2/giphy.gif)
